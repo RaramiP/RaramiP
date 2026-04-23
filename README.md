@@ -13,6 +13,8 @@
 Diplômé d'un **Master en Machine Learning**, je conçois des systèmes logiciels pilotés par l'IA à travers mes projets académiques et personnels. 
 Bien que ma spécialité soit l'IA, je suis curieux, j'aime bâtir des solutions complètes. Je m'intéresse particulièrement à l'aspect **MLOps**, au **déploiement** de modèles et à l'**IA appliquée** pour transformer des algorithmes en outils concrets et performants.
 
+---
+
 ### Stack Technique
 
 ![Langages](https://skillicons.dev/icons?i=python,rust,c,cs,github,vscode)
